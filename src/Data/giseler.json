@@ -1,0 +1,782 @@
+[
+    {
+      "id": 1,
+      "gise_adi": "Tem Akyazı",
+      "gise_il": "Sakarya",
+      "gise_ilce": "Akyazı",
+      "gise_mevkii": "Topağaç",
+      "gise_konum": "40.73950615532029, 30.62399540804923",
+      "otoyol_id": 1,
+      "slug": "tem-akyazi"
+    },
+    {
+      "id": 2,
+      "gise_adi": "KMO Akyazı",
+      "gise_il": "Sakarya",
+      "gise_ilce": "Akyazı",
+      "gise_mevkii": "Bediltahirbey",
+      "gise_konum": "40.75921952176684, 30.55755493184181",
+      "otoyol_id": 1,
+      "slug": "kmo-akyazi"
+    },
+    {
+      "id": 3,
+      "gise_adi": "Karasu",
+      "gise_il": "Sakarya",
+      "gise_ilce": "Adapazarı",
+      "gise_mevkii": "Kömürlük",
+      "gise_konum": "40.82200529084475, 30.448878234080752",
+      "otoyol_id": 1,
+      "slug": "karasu"
+    },
+    {
+      "id": 4,
+      "gise_adi": "Adapazarı 1",
+      "gise_il": "Sakarya",
+      "gise_ilce": "Adapazarı",
+      "gise_mevkii": null,
+      "gise_konum": "40.842999058469516, 30.34265148253671",
+      "otoyol_id": 1,
+      "slug": "adapazari-1"
+    },
+    {
+      "id": 5,
+      "gise_adi": "Adapazarı 2",
+      "gise_il": "Sakarya",
+      "gise_ilce": "Adapazarı",
+      "gise_mevkii": "Karakamış",
+      "gise_konum": "40.83950597905171, 30.363808594114417",
+      "otoyol_id": 1,
+      "slug": "adapazari-2"
+    },
+    {
+      "id": 6,
+      "gise_adi": "Akmeşe",
+      "gise_il": "Kocaeli",
+      "gise_ilce": "Akmeşe",
+      "gise_mevkii": "Atatürk",
+      "gise_konum": "40.85177555186878, 30.21767907836096",
+      "otoyol_id": 1,
+      "slug": "akmese"
+    },
+    {
+      "id": 7,
+      "gise_adi": "İzmit Doğu",
+      "gise_il": "Kocaeli",
+      "gise_ilce": "Kartepe",
+      "gise_mevkii": "Ataevler",
+      "gise_konum": "40.749138661661966, 30.036807714795774",
+      "otoyol_id": 1,
+      "slug": "izmit-dogu"
+    },
+    {
+      "id": 8,
+      "gise_adi": "İzmit Kuzey",
+      "gise_il": "Kocaeli",
+      "gise_ilce": "Uzunbey",
+      "gise_mevkii": null,
+      "gise_konum": "40.784896614255544, 30.052122527019613",
+      "otoyol_id": 1,
+      "slug": "izmit-kuzey"
+    },
+    {
+      "id": 9,
+      "gise_adi": "İlimtepe",
+      "gise_il": "Kocaeli",
+      "gise_ilce": "Körfez",
+      "gise_mevkii": "Sipahiler",
+      "gise_konum": "40.863155080184335, 29.77409083358405",
+      "otoyol_id": 1,
+      "slug": "ilimtepe"
+    },
+    {
+      "id": 10,
+      "gise_adi": "Sevindikli",
+      "gise_il": "Kocaeli",
+      "gise_ilce": "Körfez",
+      "gise_mevkii": null,
+      "gise_konum": "40.88461295741357, 29.770799401901755",
+      "otoyol_id": 1,
+      "slug": "sevindikli"
+    },
+    {
+      "id": 11,
+      "gise_adi": "Mermerciler",
+      "gise_il": "Kocaeli",
+      "gise_ilce": "Gebze",
+      "gise_mevkii": "Çayırova Yolu",
+      "gise_konum": "40.88160335216471, 29.549253304443518",
+      "otoyol_id": 1,
+      "slug": "mermerciler"
+    },
+    {
+      "id": 12,
+      "gise_adi": "Balçık",
+      "gise_il": "Kocaeli",
+      "gise_ilce": "Gebze",
+      "gise_mevkii": "Kadıllı",
+      "gise_konum": "40.91272236842443, 29.47009402671708",
+      "otoyol_id": 1,
+      "slug": "balcik"
+    },
+    {
+      "id": 13,
+      "gise_adi": "İstanbulpark",
+      "gise_il": "İstanbul",
+      "gise_ilce": "Tuzla",
+      "gise_mevkii": "Akfırat",
+      "gise_konum": "40.93763450154203, 29.41158293827597",
+      "otoyol_id": 1,
+      "slug": "istanbulpark"
+    },
+    {
+      "id": 14,
+      "gise_adi": "Kurnaköy 2",
+      "gise_il": "İstanbul",
+      "gise_ilce": "Pendik",
+      "gise_mevkii": null,
+      "gise_konum": "40.958216409109625, 29.329692542060933",
+      "otoyol_id": 1,
+      "slug": "kurnakoy-2"
+    },
+    {
+      "id": 15,
+      "gise_adi": "Kurnaköy",
+      "gise_il": "İstanbul",
+      "gise_ilce": "Pendik",
+      "gise_mevkii": null,
+      "gise_konum": "40.95818606031446, 29.329627507502455",
+      "otoyol_id": 2,
+      "slug": "kurnakoy"
+    },
+    {
+      "id": 16,
+      "gise_adi": "Mecidiye",
+      "gise_il": "İstanbul",
+      "gise_ilce": "Pendik",
+      "gise_mevkii": "Kurna",
+      "gise_konum": "40.95405443649764, 29.315660057940647",
+      "otoyol_id": 2,
+      "slug": "mecidiye"
+    },
+    {
+      "id": 17,
+      "gise_adi": "Paşaköy",
+      "gise_il": "İstanbul",
+      "gise_ilce": "Sancaktepe",
+      "gise_mevkii": null,
+      "gise_konum": "41.00531229901187, 29.26879513218085",
+      "otoyol_id": 2,
+      "slug": "pasakoy"
+    },
+    {
+      "id": 18,
+      "gise_adi": "Alemdağ",
+      "gise_il": "İstanbul",
+      "gise_ilce": "Çekmeköy",
+      "gise_mevkii": "Şile Otoyolu",
+      "gise_konum": "41.03129737864725, 29.265568681729942",
+      "otoyol_id": 2,
+      "slug": "alemdag"
+    },
+    {
+      "id": 19,
+      "gise_adi": "Reşadiye",
+      "gise_il": "İstanbul",
+      "gise_ilce": "Çekmeköy",
+      "gise_mevkii": "Çatalmeşe",
+      "gise_konum": "41.045892101635424, 29.25770271252549",
+      "otoyol_id": 2,
+      "slug": "resadiye"
+    },
+    {
+      "id": 20,
+      "gise_adi": "Hüseyinli",
+      "gise_il": "İstanbul",
+      "gise_ilce": "Çekmeköy",
+      "gise_mevkii": null,
+      "gise_konum": "41.114937029047795, 29.297538222138588",
+      "otoyol_id": 2,
+      "slug": "huseyinli"
+    },
+    {
+      "id": 21,
+      "gise_adi": "Riva",
+      "gise_il": "İstanbul",
+      "gise_ilce": "Beykoz",
+      "gise_mevkii": "Alibahadır",
+      "gise_konum": "41.19242210668055, 29.20253399888626",
+      "otoyol_id": 2,
+      "slug": "riva"
+    },
+    {
+      "id": 22,
+      "gise_adi": "Uskumruköy",
+      "gise_il": "İstanbul",
+      "gise_ilce": "Sarıyer",
+      "gise_mevkii": "Kumköy",
+      "gise_konum": "41.23485340605634, 29.028122483552725",
+      "otoyol_id": 2,
+      "slug": "uskumrukoy"
+    },
+    {
+      "id": 23,
+      "gise_adi": "Odayeri",
+      "gise_il": "İstanbul",
+      "gise_ilce": "Eyüp",
+      "gise_mevkii": "Işıklar",
+      "gise_konum": "41.23791250779764, 28.8209810695283",
+      "otoyol_id": 2,
+      "slug": "odayeri"
+    },
+    {
+      "id": 24,
+      "gise_adi": "Işıklar",
+      "gise_il": "İstanbul",
+      "gise_ilce": "Eyüp",
+      "gise_mevkii": "Odayeri",
+      "gise_konum": "41.210743374989676, 28.831833966340294",
+      "otoyol_id": 2,
+      "slug": "isiklar"
+    },
+    {
+      "id": 25,
+      "gise_adi": "Fenertepe",
+      "gise_il": "İstanbul",
+      "gise_ilce": "Eyüp",
+      "gise_mevkii": "Boğazköy",
+      "gise_konum": "41.19720348152248, 28.824140668308964",
+      "otoyol_id": 2,
+      "slug": "fenertepe"
+    },
+    {
+      "id": 26,
+      "gise_adi": "Fatih",
+      "gise_il": "İstanbul",
+      "gise_ilce": "Arnavutköy",
+      "gise_mevkii": "Tayakadın",
+      "gise_konum": "41.24349471603953, 28.714376841130594",
+      "otoyol_id": 3,
+      "slug": "fatih"
+    },
+    {
+      "id": 27,
+      "gise_adi": "Tayakadın",
+      "gise_il": "İstanbul",
+      "gise_ilce": "Arnavutköy",
+      "gise_mevkii": "İhsaniye Yolu",
+      "gise_konum": "41.254059038673276, 28.678512340531537",
+      "otoyol_id": 3,
+      "slug": "tayakadin"
+    },
+    {
+      "id": 28,
+      "gise_adi": "Yassıören",
+      "gise_il": "İstanbul",
+      "gise_ilce": "Arnavutköy",
+      "gise_mevkii": null,
+      "gise_konum": "41.223294825441165, 28.59792261569751",
+      "otoyol_id": 3,
+      "slug": "yassioren"
+    },
+    {
+      "id": 29,
+      "gise_adi": "Çatalca",
+      "gise_il": "İstanbul",
+      "gise_ilce": "Çatalca",
+      "gise_mevkii": "Kaleiçi",
+      "gise_konum": "41.164198899382384, 28.470314433519576",
+      "otoyol_id": 3,
+      "slug": "catakca"
+    },
+    {
+      "id": 30,
+      "gise_adi": "Silivri",
+      "gise_il": "İstanbul",
+      "gise_ilce": "Silivri",
+      "gise_mevkii": "Gazitepe",
+      "gise_konum": "41.13486045119832, 28.2902310181996",
+      "otoyol_id": 3,
+      "slug": "silivri"
+    },
+    {
+      "id": 31,
+      "gise_adi": "Kınalı",
+      "gise_il": "İstanbul",
+      "gise_ilce": "Silivri",
+      "gise_mevkii": "Alipaşa",
+      "gise_konum": "41.12707580322051, 28.210493076115412",
+      "otoyol_id": 3,
+      "slug": "kinali"
+    },
+    {
+      "id": 32,
+      "gise_adi": "Malkara",
+      "gise_il": "Tekirdağ",
+      "gise_ilce": "Malkara",
+      "gise_mevkii": "Kavakçeşme",
+      "gise_konum": "40.86066468059812, 27.050264984489353",
+      "otoyol_id": 4,
+      "slug": "malkara"
+    },
+    {
+      "id": 33,
+      "gise_adi": "Kavakköy",
+      "gise_il": "Çanakkale",
+      "gise_ilce": "Gelibolu",
+      "gise_mevkii": null,
+      "gise_konum": "40.58666413251431, 26.860841616435565",
+      "otoyol_id": 4,
+      "slug": "kavakkoy"
+    },
+    {
+      "id": 34,
+      "gise_adi": "Gelibolu Kuzey",
+      "gise_il": "Çanakkale",
+      "gise_ilce": "Gelibolu",
+      "gise_mevkii": "Güneyli",
+      "gise_konum": "40.47878824439157, 26.69348417633659",
+      "otoyol_id": 4,
+      "slug": "gelibolu-kuzey"
+    },
+    {
+      "id": 35,
+      "gise_adi": "Gelibolu Güney",
+      "gise_il": "Çanakkale",
+      "gise_ilce": "Gelibolu",
+      "gise_mevkii": "Sütlüce",
+      "gise_konum": "40.36657793165847, 26.615525926627953",
+      "otoyol_id": 4,
+      "slug": "gelibolu-guney"
+    },
+    {
+      "id": 36,
+      "gise_adi": "Çanakkale Köprüsü",
+      "gise_il": "Çanakkale",
+      "gise_ilce": null,
+      "gise_mevkii": null,
+      "gise_konum": "40.33978846333474, 26.637676807429383",
+      "otoyol_id": 4,
+      "slug": "canakkale-koprusu"
+    },
+    {
+      "id": 37,
+      "gise_adi": "Çandarlı Liman",
+      "gise_il": "İzmir",
+      "gise_ilce": "Bergama",
+      "gise_mevkii": "Zeytindağ",
+      "gise_konum": "38.97568068449947, 27.052526892307988",
+      "otoyol_id": 5,
+      "slug": "candarli-liman"
+    },
+    {
+      "id": 38,
+      "gise_adi": "Yenişakran",
+      "gise_il": "İzmir",
+      "gise_ilce": "Aliağa",
+      "gise_mevkii": null,
+      "gise_konum": "38.8882945980774, 27.079203955491728",
+      "otoyol_id": 5,
+      "slug": "yenisakran"
+    },
+    {
+      "id": 39,
+      "gise_adi": "Aliağa OSB",
+      "gise_il": "İzmir",
+      "gise_ilce": "Aliağa",
+      "gise_mevkii": "Yalı",
+      "gise_konum": "38.80446471750044, 27.030985714144432",
+      "otoyol_id": 5,
+      "slug": "aliaga-osb"
+    },
+    {
+      "id": 40,
+      "gise_adi": "Aliağa Petkim",
+      "gise_il": "İzmir",
+      "gise_ilce": "Aliağa",
+      "gise_mevkii": "Samurlu",
+      "gise_konum": "38.7781151855625, 26.97732968291254",
+      "otoyol_id": 5,
+      "slug": "aliaga-petkim"
+    },
+    {
+      "id": 41,
+      "gise_adi": "Yeni Foça",
+      "gise_il": "İzmir",
+      "gise_ilce": "Aliağa",
+      "gise_mevkii": "Şehitkemal",
+      "gise_konum": "38.72243434586063, 26.994498711852753",
+      "otoyol_id": 5,
+      "slug": "yeni-foca"
+    },
+    {
+      "id": 42,
+      "gise_adi": "Eski Foça",
+      "gise_il": "İzmir",
+      "gise_ilce": "Menemen",
+      "gise_mevkii": "Hatundere",
+      "gise_konum": "38.69333546121342, 27.023552738292135",
+      "otoyol_id": 5,
+      "slug": "eski-foca"
+    },
+    {
+      "id": 43,
+      "gise_adi": "Menemen",
+      "gise_il": "İzmir",
+      "gise_ilce": "Menemen",
+      "gise_mevkii": "Yanıkköy",
+      "gise_konum": "38.67338837556389, 27.06344278247158",
+      "otoyol_id": 5,
+      "slug": "menemen"
+    },
+    {
+      "id": 44,
+      "gise_adi": "Osmangazi Köprüsü",
+      "gise_il": "İstanbul Yönü",
+      "gise_ilce": null,
+      "gise_mevkii": null,
+      "gise_konum": "40.738696157436, 29.511716103056415",
+      "otoyol_id": 6,
+      "slug": "osmangazi-koprusu-istanbul-yonu"
+    },
+    {
+      "id": 45,
+      "gise_adi": "Osmangazi Köprüsü",
+      "gise_il": "İzmir Yönü",
+      "gise_ilce": null,
+      "gise_mevkii": null,
+      "gise_konum": "40.75652223433996, 29.51930531233718",
+      "otoyol_id": 6,
+      "slug": "osmangazi-koprusu-izmir-yonu"
+    },
+    {
+      "id": 46,
+      "gise_adi": "Altınova",
+      "gise_il": "Yalova",
+      "gise_ilce": "Altınova",
+      "gise_mevkii": "Çavuşçiftliği",
+      "gise_konum": "40.69648707496437, 29.475320985960135",
+      "otoyol_id": 6,
+      "slug": "altinova"
+    },
+    {
+      "id": 47,
+      "gise_adi": "Kılıç",
+      "gise_il": "Yalova",
+      "gise_ilce": "Çiftlikköy",
+      "gise_mevkii": null,
+      "gise_konum": "40.64129874657067, 29.385751152878786",
+      "otoyol_id": 6,
+      "slug": "kilic"
+    },
+    {
+      "id": 48,
+      "gise_adi": "Orhangazi",
+      "gise_il": "Bursa",
+      "gise_ilce": "Orhangazi",
+      "gise_mevkii": "Cihanköy",
+      "gise_konum": "40.50195606572768, 29.342994846679012",
+      "otoyol_id": 6,
+      "slug": "orhangazi"
+    },
+    {
+      "id": 49,
+      "gise_adi": "Gemlik",
+      "gise_il": "Bursa",
+      "gise_ilce": "Orhangazi",
+      "gise_mevkii": "Karsak",
+      "gise_konum": "40.429288791255175, 29.23979371522547",
+      "otoyol_id": 6,
+      "slug": "gemlik"
+    },
+    {
+      "id": 50,
+      "gise_adi": "Bursa Serbest Bölge",
+      "gise_il": "Bursa",
+      "gise_ilce": "Gemlik",
+      "gise_mevkii": null,
+      "gise_konum": "40.41137795937, 29.147645463428827",
+      "otoyol_id": 6,
+      "slug": "bursa-serbest-bolge"
+    },
+    {
+      "id": 51,
+      "gise_adi": "Bursa Kuzey",
+      "gise_il": "Bursa",
+      "gise_ilce": "Osmangazi",
+      "gise_mevkii": "Ovaakça",
+      "gise_konum": "40.31940636471586, 29.086747642041452",
+      "otoyol_id": 6,
+      "slug": "bursa-kuzey"
+    },
+    {
+      "id": 52,
+      "gise_adi": "Bursa Batı",
+      "gise_il": "Bursa",
+      "gise_ilce": "Nilüfer",
+      "gise_mevkii": null,
+      "gise_konum": "40.25652541532758, 28.709892673790034",
+      "otoyol_id": 6,
+      "slug": "bursa-bati"
+    },
+    {
+      "id": 53,
+      "gise_adi": "Karacabey Doğu",
+      "gise_il": "Bursa",
+      "gise_ilce": "Karacabey",
+      "gise_mevkii": null,
+      "gise_konum": "40.19558837934626, 28.361033503830985",
+      "otoyol_id": 6,
+      "slug": "karacabey-dogu"
+    },
+    {
+      "id": 54,
+      "gise_adi": "Karacabey Batı",
+      "gise_il": "Bursa",
+      "gise_ilce": "Karacabey",
+      "gise_mevkii": null,
+      "gise_konum": "40.190204643420245, 28.342742337486598",
+      "otoyol_id": 6,
+      "slug": "karacabey-bati"
+    },
+    {
+      "id": 55,
+      "gise_adi": "Susurluk",
+      "gise_il": "Balıkesir",
+      "gise_ilce": "Susurluk",
+      "gise_mevkii": "Balıklıdere",
+      "gise_konum": "39.96189702963633, 28.165063232704295",
+      "otoyol_id": 6,
+      "slug": "susurluk"
+    },
+    {
+      "id": 56,
+      "gise_adi": "Balıkesir Kuzey",
+      "gise_il": "Balıkesir",
+      "gise_ilce": "Karesi",
+      "gise_mevkii": "Yeniköy",
+      "gise_konum": "39.756482372118896, 27.996860218442436",
+      "otoyol_id": 6,
+      "slug": "balikesir-kuzey"
+    },
+    {
+      "id": 57,
+      "gise_adi": "Balıkesir Batı",
+      "gise_il": "Balıkesir",
+      "gise_ilce": "Altıeylül",
+      "gise_mevkii": "Aliağa",
+      "gise_konum": "39.636543891215695, 27.718743635035402",
+      "otoyol_id": 6,
+      "slug": "balikesir-bati"
+    },
+    {
+      "id": 58,
+      "gise_adi": "Savaştepe",
+      "gise_il": "Balıkesir",
+      "gise_ilce": "Savaştepe",
+      "gise_mevkii": "Fatih",
+      "gise_konum": "39.38090827011608, 27.639701972467055",
+      "otoyol_id": 6,
+      "slug": "savastepe"
+    },
+    {
+      "id": 59,
+      "gise_adi": "Soma",
+      "gise_il": "Manisa",
+      "gise_ilce": "Soma",
+      "gise_mevkii": null,
+      "gise_konum": "39.252158189822744, 27.5743485248174",
+      "otoyol_id": 6,
+      "slug": "soma"
+    },
+    {
+      "id": 60,
+      "gise_adi": "Kırkağaç",
+      "gise_il": "Manisa",
+      "gise_ilce": "Kırkağaç",
+      "gise_mevkii": "Akhisar Bergama Yolu",
+      "gise_konum": "39.0968788942355, 27.699944770617588",
+      "otoyol_id": 6,
+      "slug": "kirkagac"
+    },
+    {
+      "id": 61,
+      "gise_adi": "Akhisar",
+      "gise_il": "Manisa",
+      "gise_ilce": "Akhisar",
+      "gise_mevkii": "Sünnetçişer",
+      "gise_konum": "38.964930634323686, 27.736273170070803",
+      "otoyol_id": 6,
+      "slug": "akhisar"
+    },
+    {
+      "id": 62,
+      "gise_adi": "Saruhanlı",
+      "gise_il": "Manisa",
+      "gise_ilce": "Saruhanlı",
+      "gise_mevkii": "Koyuncu",
+      "gise_konum": "38.764816147194914, 27.655881724799055",
+      "otoyol_id": 6,
+      "slug": "saruhanli"
+    },
+    {
+      "id": 63,
+      "gise_adi": "Turgutlu",
+      "gise_il": "Manisa",
+      "gise_ilce": "Şehzadeler",
+      "gise_mevkii": "Karaoğlanlı",
+      "gise_konum": "38.50574897140702, 27.602567909771924",
+      "otoyol_id": 6,
+      "slug": "turgutlu"
+    },
+    {
+      "id": 64,
+      "gise_adi": "İzmir",
+      "gise_il": "İzmir",
+      "gise_ilce": "Kemalpaşa",
+      "gise_mevkii": "Akalan",
+      "gise_konum": "38.455011880064205, 27.49638979962955",
+      "otoyol_id": 6,
+      "slug": "izmir"
+    },
+    {
+      "id": 65,
+      "gise_adi": "Ankara Alın",
+      "gise_il": "Ankara",
+      "gise_ilce": "Gölbaşı",
+      "gise_mevkii": "Gökçehüyük",
+      "gise_konum": "39.63113048810048, 32.75869288028321",
+      "otoyol_id": 7,
+      "slug": "ankara-alin"
+    },
+    {
+      "id": 66,
+      "gise_adi": "Karagedik",
+      "gise_il": "Ankara",
+      "gise_ilce": "Gölbaşı",
+      "gise_mevkii": null,
+      "gise_konum": "39.61054358393777, 32.78999926652979",
+      "otoyol_id": 7,
+      "slug": "karagedik"
+    },
+    {
+      "id": 67,
+      "gise_adi": "Ahiboz",
+      "gise_il": "Ankara",
+      "gise_ilce": "Gölbaşı",
+      "gise_mevkii": "Mahmatlı",
+      "gise_konum": "39.546661961552196, 32.87413306308908",
+      "otoyol_id": 7,
+      "slug": "ahiboz"
+    },
+    {
+      "id": 68,
+      "gise_adi": "Emirler",
+      "gise_il": "Ankara",
+      "gise_ilce": "Bala",
+      "gise_mevkii": "Yeniyapançarşak",
+      "gise_konum": "39.38307256925983, 32.965014379646846",
+      "otoyol_id": 7,
+      "slug": "emirler"
+    },
+    {
+      "id": 69,
+      "gise_adi": "Kulu",
+      "gise_il": "Konya",
+      "gise_ilce": "Kulu",
+      "gise_mevkii": "Yazıçayır",
+      "gise_konum": "39.23882643906778, 33.126191394672546",
+      "otoyol_id": 7,
+      "slug": "kulu"
+    },
+    {
+      "id": 70,
+      "gise_adi": "Acıkuyu",
+      "gise_il": "Ankara",
+      "gise_ilce": "Şereflikoçhisar",
+      "gise_mevkii": null,
+      "gise_konum": "39.119788714478794, 33.42395887179216",
+      "otoyol_id": 7,
+      "slug": "acikuyu"
+    },
+    {
+      "id": 71,
+      "gise_adi": "Evren",
+      "gise_il": "Ankara",
+      "gise_ilce": "Evren",
+      "gise_mevkii": "Esentepe",
+      "gise_konum": "39.017239581263375, 33.816950425052944",
+      "otoyol_id": 7,
+      "slug": "evren"
+    },
+    {
+      "id": 72,
+      "gise_adi": "Kırşehir",
+      "gise_il": "Kırşehir",
+      "gise_ilce": "Merkez",
+      "gise_mevkii": null,
+      "gise_konum": "38.9870110283702, 34.03636529597378",
+      "otoyol_id": 7,
+      "slug": "kirsehir"
+    },
+    {
+      "id": 73,
+      "gise_adi": "Ağaçören",
+      "gise_il": "Aksaray",
+      "gise_ilce": "Ortaköy",
+      "gise_mevkii": "Harmandalı",
+      "gise_konum": "38.93685018066872, 33.96430680903823",
+      "otoyol_id": 7,
+      "slug": "agacoren"
+    },
+    {
+      "id": 74,
+      "gise_adi": "Ortaköy",
+      "gise_il": "Aksaray",
+      "gise_ilce": "Ortaköy",
+      "gise_mevkii": "Bozkır",
+      "gise_konum": "38.77290437896748, 34.12093290260539",
+      "otoyol_id": 7,
+      "slug": "ortakoy"
+    },
+    {
+      "id": 75,
+      "gise_adi": "Alayhan",
+      "gise_il": "Aksaray",
+      "gise_ilce": "Gülağaç",
+      "gise_mevkii": "Süleymanhüyüğü",
+      "gise_konum": "38.50725115771525, 34.32991682491485",
+      "otoyol_id": 7,
+      "slug": "alayham"
+    },
+    {
+      "id": 76,
+      "gise_adi": "Derinkuyu",
+      "gise_il": "Nevşehir",
+      "gise_ilce": "Derinkuyu",
+      "gise_mevkii": "Kuyulutatlar",
+      "gise_konum": "38.34284227986558, 34.56901179868747",
+      "otoyol_id": 7,
+      "slug": "derinkuyu"
+    },
+    {
+      "id": 77,
+      "gise_adi": "Çiftlik",
+      "gise_il": "Niğde",
+      "gise_ilce": "Merkez",
+      "gise_mevkii": "Bağlama",
+      "gise_konum": "38.25821658565076, 34.62980756582508",
+      "otoyol_id": 7,
+      "slug": "ciftlik"
+    },
+    {
+      "id": 78,
+      "gise_adi": "Niğde Alın",
+      "gise_il": "Niğde",
+      "gise_ilce": "Merkez",
+      "gise_mevkii": "Pınarcık",
+      "gise_konum": "38.14339607887146, 34.7177319438648",
+      "otoyol_id": 7,
+      "slug": "nigde-alin"
+    }
+  ]

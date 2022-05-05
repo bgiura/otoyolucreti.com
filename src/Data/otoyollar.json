@@ -1,0 +1,37 @@
+[
+    {
+      "otoyol_id": 1,
+      "otoyol_adi": "Kuzey Marmara Anadolu Otoyolu",
+      "slug": "kuzey-marmara-anadolu-otoyolu"
+    },
+    {
+      "otoyol_id": 2,
+      "otoyol_adi": "Yavuz Sultan Selim Köprüsü ve Çevre Otoyolu",
+      "slug": "yavuz-sultan-selim-koprusu-cevre-otoyolu"
+    },
+    {
+      "otoyol_id": 3,
+      "otoyol_adi": "Kuzey Marmara Avrupa Otoyolu",
+      "slug": "kuzey-marmara-avrupa-otoyolu"
+    },
+    {
+      "otoyol_id": 4,
+      "otoyol_adi": "Malkara Çanakkale Otoyolu",
+      "slug": "malkara-canakkale-otoyolu"
+    },
+    {
+      "otoyol_id": 5,
+      "otoyol_adi": "Kuzey Ege Otoyolu - Menemen Aliağa",
+      "slug": "kuzey-ege-otoyolu-menemen-aliaga"
+    },
+    {
+      "otoyol_id": 7,
+      "otoyol_adi": "Ankara Niğde Otoyolu",
+      "slug": "ankara-nigde-otoyolu"
+    },
+    {
+      "otoyol_id": 6,
+      "otoyol_adi": "İstanbul İzmir Otoyolu",
+      "slug": "istanbul-izmir-otoyolu"
+    }
+  ]
